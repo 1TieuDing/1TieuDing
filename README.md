@@ -35,8 +35,11 @@
 <ul>
     <strong>
         <li>Tôi là Tuấn Anh</li>
+        <br />
         <li>Hiện tại, tôi đang học ReactJs và NodeJS</li>
-        <li>Lĩnh vực quan tâm của tôi là <i>xây dựng các công nghệ web mới và các sản phẩm liên quan</li>
+        <br />
+        <li>Lĩnh vực quan tâm của tôi là <i>xây dựng các công nghệ web mới và các sản phẩm liên quan</i></li>
+        <br />
         <li>Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️</li>
     </strong>
 </ul>
