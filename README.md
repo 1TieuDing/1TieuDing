@@ -16,6 +16,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Antdesign-282C34?logo=antdesign&logoColor=0170FE" alt="AntDesign logo" title="Antdesign" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">Thống kê 🔥</h2>
