@@ -32,7 +32,10 @@
 
 <h2 align="center">Một ngày tốt lành 👋</h2>
 <br>
-<ul><strong>Tôi là Tuấn Anh</strong></ul>
+<ul><strong>
+Tôi là Tuấn Anh
+</strong>
+</ul>
 <p><strong>Hiện tại, tôi đang học ReactJs và NodeJS</strong></p>
 <p><strong>Lĩnh vực quan tâm của tôi là <i>xây dựng các công nghệ web mới và các sản phẩm liên quan</i></strong></p>
 <p><strong>Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️</strong></p>
