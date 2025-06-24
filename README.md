@@ -45,7 +45,7 @@
 </ul>
 
 <br>
-<h2 align="center">Câu nói yêu thích 📑</h2>
+<h2 align="center">Ông tôi từng nói 👴</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/anhxtanh2.0.svg" width="846" height="500" />
